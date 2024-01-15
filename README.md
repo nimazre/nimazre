@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nima Zare. Im from Iran and Im glad that I can help you to solve your problem or You can help me :)
+- 👀 I’m interested in Web Develope. 
+- 🌱 I’m currently learning Html & Css.
+- 📫 So Im a rookie who just start coding for 2 months. I hope in the future I'll become a successful Softwer enginee.
